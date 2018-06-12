@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:id="@+id/datospersonales"
+        android:title="@string/datospersonales" />
+
+    <item
+        android:id="@+id/estudiosrealizados"
+        android:title="@string/estudiosrealizados" />
+
+    <item
+        android:id="@+id/experiencialaboral"
+        android:title="@string/experiencialaboral" />
+
+    <item
+        android:id="@+id/referenciaspersonales"
+        android:title="@string/referenciaspersonales" />
+
+    <item
+        android:id="@+id/acercadeusted"
+        android:title="@string/acercadeusted" />
+
+</menu>

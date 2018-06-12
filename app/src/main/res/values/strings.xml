@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">CVGeisonApp5</string>
+    <string name="bienvenido">BIENVENIDO</string>
+    <string name="comencemos">COMENCEMOS A </string>
+    <string name="cv">CREAR TU CV </string>
+    <string name="datospersonales">DATOS PERSONALES </string>
+    <string name="estudiosrealizados">ESTUDIOS REALIZADOS </string>
+    <string name="experiencialaboral">EXPERIENCIA LABORAL </string>
+    <string name="referenciaspersonales">REFERENCIAS PERSONALES </string>
+    <string name="acercadeusted">ACERCA DE USTED </string>
+</resources>
